@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 🤝 I’m looking for help with [help me by following me😁](https://github.com/MishanPoudel/wadahell)
+- 🤝 I’m looking for help with [help me by following me😁]([https://github.com/MishanPoudel/wadahell](https://wadahell.vercel.app/))
 
 - 👨‍💻 All of my projects are available at [https://github.com/MishanPoudel/Portfolio](https://github.com/MishanPoudel/Portfolio)
 
